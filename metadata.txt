@@ -1,0 +1,7 @@
+[general]
+name=GIS Snake
+qgisMinimumVersion=3.0
+description=A plugin to update sequential IDs in a selected layer
+version=3.0
+author=Soykot Hossain
+email=soykot244@gmail.com
