@@ -1,4 +1,4 @@
-from . import resources_rc  # Ensure this import is correct and resources_rc.py is in the plugin directory
+from . import resources_rc  
 
 from qgis.core import QgsProject, QgsVectorLayer, QgsField, QgsGeometry, Qgis
 from PyQt5.QtCore import QVariant, Qt
